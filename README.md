@@ -18,7 +18,7 @@
 ## 2.pandas 資料整理
 
 建立Dataframe
-![](./demo_images/seaborn.png)
+![](./demo_images/pandas.png)
 
 ## 3.matplotlib 視覺化
 
