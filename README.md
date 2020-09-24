@@ -17,6 +17,9 @@
 
 ## 2.pandas 資料整理
 
+建立Dataframe
+![](./demo_images/seaborn.png)
+
 ## 3.matplotlib 視覺化
 
 1.usa.gov 樣本資料中出現頻率最高之時區
