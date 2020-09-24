@@ -1,6 +1,6 @@
 # 分析Bitly、USA.gov提供的縮短網址服務的使用者資料
 
-## python packages:
+## 1.python packages:
 1. appdirs            1.4.4
 2. certifi            2020.6.20
 3. distlib            0.3.1
@@ -14,3 +14,10 @@
 11. virtualenv-clone   0.5.4
 12. wheel              0.35.1
 13. zipp               3.1.0
+
+## 2.pandas 資料整理
+
+## 3.matplotlib 視覺化
+
+1.usa.gov 樣本資料中出現頻率最高之時區
+![](./demo_images/seaborn.png)
