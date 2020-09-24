@@ -24,3 +24,14 @@
 
 1.usa.gov 樣本資料中出現頻率最高之時區
 ![](./demo_images/seaborn.png)
+
+## 4.去除遺失值、資料分組、建立索引陣列
+
+## 5.將整理好的資料透過 seaborn 資料視覺化
+
+1.windows系統 與 非windows系統 出現最多用戶的時區
+![](./demo_images/windows_users.png)
+
+
+2.透過 正規化 後，再次視覺化
+![](./demo_images/users_plt.png)
